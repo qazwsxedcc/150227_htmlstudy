@@ -4,58 +4,44 @@
 } 
 
 #site-box{
-          width: 752px; 
-          border: 1px solid #FF9900;
-          margin : 5px auto
+    width: 752px; 
+    border: 1px solid #FF9900;
+    margin : 5px auto;
 }
 
 
 #a-box{
-       wigth:400px; height:300px; padding:15px;
-       border-bottom:1px solid #FF9900;
-       background-image: url("./img/635.jpg");
-       background-size: cover;
-       padding: 20px;
+    wigth:400px; height:300px; padding:15px;
+    border-bottom:1px solid #FF9900;
+    background-image: url("./img/635.jpg");
+    background-size: cover;
+    padding: 20px;
 }
 
-h1{
-   color: #008B8B;
-   font-family:'Lucida Grande',
- 'Hiragino Kaku Gothic ProN', 'ÉqÉâÉMÉmäpÉS ProN W3',
- Meiryo, ÉÅÉCÉäÉI, sans-serif;
+.boldtext {
+    font-family:'Lucida Grande',
+        'Hiragino Kaku Gothic ProN', sans-serif;
+    color: #008B8B;
 }
 
 #b-box{
-       float:left;
-       width: 500px;
-        font-family:'Lucida Grande',
- 'Hiragino Kaku Gothic ProN', 'ÉqÉâÉMÉmäpÉS ProN W3',
- Meiryo, ÉÅÉCÉäÉI, sans-serif;
+    float:left;
+    width: 500px;
 }
 
 #c-box{
-       float:right;
-       width: 250px;
-       font-size: 12px;
-        font-family:'Lucida Grande',
- 'Hiragino Kaku Gothic ProN', 'ÉqÉâÉMÉmäpÉS ProN W3',
- Meiryo, ÉÅÉCÉäÉI, sans-serif;
-      
-
-}
-ul{
-     font-family:'Lucida Grande',
- 'Hiragino Kaku Gothic ProN', 'ÉqÉâÉMÉmäpÉS ProN W3',
- Meiryo, ÉÅÉCÉäÉI, sans-serif;
+    float:right;
+    width: 250px;
+    font-size: 12px;
 }
 
 #d-box{
-       clear:both;
-       width:732px;
-       background-color: #FFFF99;
-       font-size: 12px;
-       padding: 10px;
-       text-align: center;
+    clear:both;
+    width:732px;
+    background-color: #FFFF99;
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
 } 
 
 h1{
@@ -65,14 +51,14 @@ h1{
 h2{
     font-size: 17px;
     background-color: #FFFF99; 
-     padding: 10px;
-     margin: 5px;    
+    padding: 10px;
+    margin: 5px;
 }
 
 h3{
     font-size: 15px;
-    color: #EE9900
-     margin: 5px;      
+    color: #EE9900;
+    margin: 5px;      
 }
 
 p{
@@ -81,14 +67,14 @@ p{
 }
 
 ul{
-     padding : 10px 5px 10px 30px; 
+    padding : 10px 5px 10px 30px; 
 }
 
 
- .category{
-            font-size: 14px; 
-            color: #48D1CC;
-             background-color: #FFFF99;
-            padding: 5px;
-            margin: 5px;    
+.category{
+    font-size: 14px; 
+    color: #48D1CC;
+    background-color: #FFFF99;
+    padding: 5px;
+    margin: 5px;    
 }
